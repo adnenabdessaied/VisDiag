@@ -23,7 +23,7 @@ Now go ahead and start training the network by executing
 cd ..
 python train.py --path_training /path/to/visdial_0.9_train.json --path_val /path/to/visdial_0.9_val.json --images_dir $IMAGES
 ```
-Our pre-trained generative decoders (using Late fusion and Memory network encoding) can be found [here](https://drive.google.com/open?id=1ED-GwQpeANKOtQFsatSmxMHy3fuQwq-V)
+Our pre-trained generative decoders (using Late fusion and Memory network encoding) can be found [here](https://drive.google.com/open?id=1ED-GwQpeANKOtQFsatSmxMHy3fuQwq-V).
 #### Checkpointing
 ``train.py`` will save network checkpoints of the last 10 epochs in ``$REPO/checkpoints``. The best checkpoint will be saved in ``$REPO/checkpoints/best``. By best checkpoint we mean the one that scores the smallest validation loss. 
 
