@@ -36,7 +36,7 @@ and then visit ``localhost:6006`` in your browser.
 
 ### Interactive mode
 The interactive mode allows us to assess a pre-trained network, generate new data and progressively fine tune the model to achieve better performances. This mode take the form of a GUI, imeplemented with [tkinter](https://docs.python.org/3/library/tkinter.html). 
-To use it make sure that you have tkinter installed on your computer then execute 
+To be able to use it, make sure that you have tkinter installed on your computer then execute: 
 ```bash
 cd GUI
 python gui.py
