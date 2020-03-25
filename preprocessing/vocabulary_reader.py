@@ -8,8 +8,7 @@ __status__ = "Implementation"
 
 """
 This class generates a vocabulary from our data, i.e. from the captions, questions and answers of the training data. 
-These data can be found on https://visualdialog.org/data. It also generates an embedding of all vocabulary words using 
-the pre-trained english fasttext model (https://fasttext.cc/).   
+These data can be found on https://visualdialog.org/data. 
 """
 
 import os
@@ -48,9 +47,7 @@ class Vocabulary_Reader(object):
         :param paths_to_data: The paths to the json files.
         :param output_path: The path to the directory where the embedding will be stored
         :param images_dir: Path to the directory containing the COCO images.
-        :param path_to_fasttext_model: path to the fasttext pre-trained model that will be used to generate the
-                               embedding.
-        :param save_embedding: If true, an embedding of the words will be generated and saved into disk.
+        :param save: If true, index to word and word to index mappings will saved into disk.
         :param name: Name of the vocabulary reader.
         """
         self.name = name
@@ -111,46 +108,36 @@ class Vocabulary_Reader(object):
 
 def main():
     ap = argparse.ArgumentParser()
-    # ap.add_argument("-ptr", "--path_training", required=True, help="Path to json training file")
-    # ap.add_argument("-pval", "--path_val", required=True, help="Path to json validation file")
-    # ap.add_argument("-pte", "--path_test", required=True, help="Path to json test file")
-    #ap.add_argument("-img_dir", "--images_dir", required=True, help="Path to the directroy containing the COCO images")
-    #
-    # ap.add_argument("-o", "--output", required=True, help="path to the directory where the embedding will be saved")
-    # ap.add_argument("-f", "--fasttext", required=True, help="Path to pre-trained bin file for fasttext")
+    ap.add_argument("-ptr",
+                    "--path_training",
+                    required=True,
+                    help="Path to json training file")
 
-    ap.add_argument("-ptr", "--path_training",
-                    default="/data/vis_diag/visdial_1.0_train.json",
-                    required=False, help="Path to json training file")
-    ap.add_argument("-pval", "--path_val",
-                    default="/data/vis_diag/visdial_1.0_val.json",
-                    required=False, help="Path to json validation file")
+    ap.add_argument("-pval",
+                    "--path_val",
+                    required=True,
+                    help="Path to json validation file")
 
-    # ap.add_argument("-pte", "--path_test",
-    #                 default="/data/vis_diag/visdial_0.9_test.json",
-    #                 required=False, help="Path to json test file")
-    ap.add_argument("-img_dir", "--images_dir",
-                    default="/lhome/mabdess/visual_dialog/data/images",
-                    required=False, help="Path to the directroy containing the COCO images")
+    ap.add_argument("-img_dir",
+                    "--images_dir",
+                    required=True,
+                    help="Path to the directroy containing the COCO images")
 
-    ap.add_argument("-o", "--output", required=False,
-                    default=".",
+    ap.add_argument("-o", "--output",
+                    required=False,
+                    default="..",
                     help="path to the directory where the embedding will be saved")
-    #  ap.add_argument("-f", "--fasttext", required=True, help="Path to pre-trained bin file for fasttext")
 
     args = vars(ap.parse_args())
-    paths = [args["path_training"], args["path_val"]] #, args["path_test"]]
+    paths = [args["path_training"], args["path_val"]]
     vocabulary_reader = Vocabulary_Reader(
         paths, args["output"], args["images_dir"],
         save=True)
 
-    with open(args["output"] + "/vocab_10.pickle", "wb") as f:
-        pickle.dump(vocabulary_reader.vocabulary, f, protocol=pickle.HIGHEST_PROTOCOL)
-
-    with open(args["output"] + "/word_to_idx_10.pickle", "wb") as f:
+    with open(args["output"] + "/word_to_idx.pickle", "wb") as f:
         pickle.dump(vocabulary_reader.word_to_idx, f, protocol=pickle.HIGHEST_PROTOCOL)
 
-    with open(args["output"] + "/idx_to_word_10.pickle", "wb") as f:
+    with open(args["output"] + "/idx_to_word.pickle", "wb") as f:
         pickle.dump(vocabulary_reader.idx_to_word, f, protocol=pickle.HIGHEST_PROTOCOL)
 
     del vocabulary_reader
