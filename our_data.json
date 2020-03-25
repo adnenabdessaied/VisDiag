@@ -1,0 +1,4950 @@
+{
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000000146.jpg": {
+        "dialog": [
+            {
+                "question": "is the baby a girl or a boy?",
+                "predicted_answer": "boy",
+                "answer": "girl",
+                "pred_fine_tuned": "boy"
+            },
+            {
+                "question": "is the baby alone?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is the baby wearing?",
+                "predicted_answer": "a blue shirt",
+                "answer": "a blue shirt",
+                "pred_fine_tuned": "a blue shirt"
+            },
+            {
+                "question": "is it night or day time?",
+                "predicted_answer": "day",
+                "answer": "day",
+                "pred_fine_tuned": "day"
+            },
+            {
+                "question": "is the baby covered with a blanket?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see toys around the baby?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what color is the blanket?",
+                "predicted_answer": "white",
+                "answer": "yellow",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what color is the bed?",
+                "predicted_answer": "white",
+                "answer": "brown",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what is it made of?",
+                "predicted_answer": "wood",
+                "answer": "wood",
+                "pred_fine_tuned": "wood"
+            }
+        ],
+        "caption": "a baby sleeping in its crib",
+        "length": 9,
+        "accuracy": 56.00000000000001
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000000172.jpg": {
+        "dialog": [
+            {
+                "question": "is it at a restaurant or at home?",
+                "predicted_answer": "restaurant",
+                "answer": "restaurant",
+                "pred_fine_tuned": "restaurant"
+            },
+            {
+                "question": "can you see people?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what kind of food do you see?",
+                "predicted_answer": "looks like a salad",
+                "answer": "looks like a salad",
+                "pred_fine_tuned": "looks like a salad"
+            },
+            {
+                "question": "what kind of silverware do you see?",
+                "predicted_answer": "fork",
+                "answer": "fork",
+                "pred_fine_tuned": "fork and knife"
+            },
+            {
+                "question": "where is the plate located?",
+                "predicted_answer": "on a table",
+                "answer": "on a table",
+                "pred_fine_tuned": "on a table"
+            },
+            {
+                "question": "is there any other kind of food on the plate?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what color is the plate?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what is it made of?",
+                "predicted_answer": "wood",
+                "answer": "pottery",
+                "pred_fine_tuned": "wood"
+            }
+        ],
+        "caption": "a plate full a food",
+        "length": 8,
+        "accuracy": 75.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000000256.jpg": {
+        "dialog": [
+            {
+                "question": "what color is the cat?",
+                "predicted_answer": "black and white",
+                "answer": "black and white",
+                "pred_fine_tuned": "black and white"
+            },
+            {
+                "question": "what color is the car?",
+                "predicted_answer": "white",
+                "answer": "black",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "where is the car parked?",
+                "predicted_answer": "on the street",
+                "answer": "on the street",
+                "pred_fine_tuned": "on the street"
+            },
+            {
+                "question": "is the cat standing or sitting?",
+                "predicted_answer": "standing",
+                "answer": "standing",
+                "pred_fine_tuned": "standing"
+            },
+            {
+                "question": "is the street clean?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do you see people?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "how big is the cat?",
+                "predicted_answer": "medium sized",
+                "answer": "medium sized",
+                "pred_fine_tuned": "medium sized"
+            }
+        ],
+        "caption": "a cat under a parked car",
+        "length": 7,
+        "accuracy": 71.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000000273.jpg": {
+        "dialog": [
+            {
+                "question": "can you see a lot of snow?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what gender is the person?",
+                "predicted_answer": "male",
+                "answer": "male",
+                "pred_fine_tuned": "male"
+            },
+            {
+                "question": "how old do you think he is?",
+                "predicted_answer": "maybe in his 20s",
+                "answer": "maybe in his 20s",
+                "pred_fine_tuned": "maybe in his 20s"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a wetsuit",
+                "answer": "snow boarding gear",
+                "pred_fine_tuned": "a wetsuit"
+            },
+            {
+                "question": "is wearing a helmet?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what color is the helmet?",
+                "predicted_answer": "red",
+                "answer": "yellow",
+                "pred_fine_tuned": "red"
+            },
+            {
+                "question": "do he look professional?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a person snow boarding",
+        "length": 7,
+        "accuracy": 71.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000000327.jpg": {
+        "dialog": [
+            {
+                "question": "how old do you think the boy is?",
+                "predicted_answer": "maybe five",
+                "answer": "around twelve",
+                "pred_fine_tuned": "maybe five"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a black wetsuit",
+                "answer": "a blue t shirt and black pants ",
+                "pred_fine_tuned": "a black wetsuit"
+            },
+            {
+                "question": "can you see a ball?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it day or night time?",
+                "predicted_answer": "day",
+                "answer": "day",
+                "pred_fine_tuned": "day"
+            },
+            {
+                "question": "how much is he enjoying himself?",
+                "predicted_answer": "he looks like he is in his mid twenties",
+                "answer": "very much",
+                "pred_fine_tuned": "he looks like he is in his mid twenties"
+            },
+            {
+                "question": "is he smiling?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "where do you think the boy is at?",
+                "predicted_answer": "looks like a park",
+                "answer": "looks like a park",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "are there other people around?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "a little boy is playing soccer",
+        "length": 8,
+        "accuracy": 38.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000000466.jpg": {
+        "dialog": [
+            {
+                "question": "how many umbrellas can you see?",
+                "predicted_answer": "two",
+                "answer": "four",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "what color are they?",
+                "predicted_answer": "white",
+                "answer": "yellow",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "can you see people too?",
+                "predicted_answer": "no",
+                "answer": "only one",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "are there trees around?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many trees do you think are there?",
+                "predicted_answer": "i can see three",
+                "answer": "a dozen",
+                "pred_fine_tuned": "i can see three"
+            },
+            {
+                "question": "how is the weather?",
+                "predicted_answer": "sunny",
+                "answer": "sunny",
+                "pred_fine_tuned": "sunny"
+            },
+            {
+                "question": "at what time do you think the picture was taken?",
+                "predicted_answer": "it is a very old picture so i can not",
+                "answer": "around noon",
+                "pred_fine_tuned": "maybe a year old"
+            }
+        ],
+        "caption": "umbrellas scattered in a park",
+        "length": 7,
+        "accuracy": 28.999999999999996
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000000561.jpg": {
+        "dialog": [
+            {
+                "question": "how is the weather like?",
+                "predicted_answer": "sunny",
+                "answer": "windy",
+                "pred_fine_tuned": "sunny"
+            },
+            {
+                "question": "what is the woman wearing?",
+                "predicted_answer": "a wetsuit",
+                "answer": "a sweat shirt and jeans",
+                "pred_fine_tuned": "a wetsuit"
+            },
+            {
+                "question": "how old do you think the woman is?",
+                "predicted_answer": "maybe in his 20s",
+                "answer": "in her 30s",
+                "pred_fine_tuned": "maybe in his 30s"
+            },
+            {
+                "question": "is she alone?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is she standing on?",
+                "predicted_answer": "a field",
+                "answer": "sand",
+                "pred_fine_tuned": "a field"
+            },
+            {
+                "question": "is the ocean calm?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is her ethnicity?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what alse can you see?",
+                "predicted_answer": "i can not tell",
+                "answer": "a clock",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "what color is the sand?",
+                "predicted_answer": "brown",
+                "answer": "brown",
+                "pred_fine_tuned": "brown"
+            }
+        ],
+        "caption": "a woman standing at the beach in front of the ocean",
+        "length": 9,
+        "accuracy": 44.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000000600.jpg": {
+        "dialog": [
+            {
+                "question": "how old do you think the girl is?",
+                "predicted_answer": "maybe eight",
+                "answer": "around eighteen",
+                "pred_fine_tuned": "maybe five"
+            },
+            {
+                "question": "what is the girl wearing?",
+                "predicted_answer": "a red shirt and black shorts",
+                "answer": "a black shirt and jeans",
+                "pred_fine_tuned": "a black shirt and jeans"
+            },
+            {
+                "question": "how big is the girl?",
+                "predicted_answer": "maybe five or six",
+                "answer": "maybe five",
+                "pred_fine_tuned": "maybe five or six"
+            },
+            {
+                "question": "what color is the car?",
+                "predicted_answer": "black",
+                "answer": "red",
+                "pred_fine_tuned": "black"
+            },
+            {
+                "question": "what do you see in the background?",
+                "predicted_answer": "a building",
+                "answer": "a building",
+                "pred_fine_tuned": "a building in the background"
+            },
+            {
+                "question": "what kind of building do you see?",
+                "predicted_answer": "it is a brick building",
+                "answer": "a house",
+                "pred_fine_tuned": "a brick building"
+            },
+            {
+                "question": "at what time was the picture taken?",
+                "predicted_answer": "i would say mid day",
+                "answer": "in the afternoon",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "what type of car can you see?",
+                "predicted_answer": "a truck",
+                "answer": "sports car",
+                "pred_fine_tuned": "a truck"
+            }
+        ],
+        "caption": "a girl with a skateboard standing besides a car",
+        "length": 8,
+        "accuracy": 12.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000000717.jpg": {
+        "dialog": [
+            {
+                "question": "what kind of horse is it?",
+                "predicted_answer": "i can not tell",
+                "answer": "arabian",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "what color is it?",
+                "predicted_answer": "black",
+                "answer": "brown",
+                "pred_fine_tuned": "black"
+            },
+            {
+                "question": "where do you think the horse is?",
+                "predicted_answer": "i can not tell",
+                "answer": "a show room",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "how many other horses do you see?",
+                "predicted_answer": "one",
+                "answer": "none",
+                "pred_fine_tuned": "one"
+            },
+            {
+                "question": "is it inside or outside?",
+                "predicted_answer": "inside",
+                "answer": "inside",
+                "pred_fine_tuned": "inside"
+            },
+            {
+                "question": "how beatiful do you think the horse is?",
+                "predicted_answer": "i can not tell",
+                "answer": "looks very elegant",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "how old is the horse?",
+                "predicted_answer": "maybe five",
+                "answer": "maybe five",
+                "pred_fine_tuned": "maybe five"
+            },
+            {
+                "question": "is it a male or a female?",
+                "predicted_answer": "male",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "male"
+            }
+        ],
+        "caption": "a close up of a horse",
+        "length": 8,
+        "accuracy": 25.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000000844.jpg": {
+        "dialog": [
+            {
+                "question": "how many women can you see?",
+                "predicted_answer": "two",
+                "answer": "two",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "how old do you think they are?",
+                "predicted_answer": "maybe late 20s",
+                "answer": "maybe 50s or 60s",
+                "pred_fine_tuned": "maybe in their 20s"
+            },
+            {
+                "question": "do you see food in front of them?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "are they smiling?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do you see silverware?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "does it look like it is summer or winter?",
+                "predicted_answer": "summer",
+                "answer": "summer",
+                "pred_fine_tuned": "summer"
+            },
+            {
+                "question": "is it a fancy restaurant?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what are they wearing?",
+                "predicted_answer": "one is wearing a blue shirt and the other is",
+                "answer": "casual clothes",
+                "pred_fine_tuned": "one is wearing a blue shirt and the other is"
+            }
+        ],
+        "caption": "women at a restaurant taking a picture",
+        "length": 8,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001042.jpg": {
+        "dialog": [
+            {
+                "question": "how many carrots can you see?",
+                "predicted_answer": "two",
+                "answer": "fifteen",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "what color are the carrots?",
+                "predicted_answer": "white",
+                "answer": "orange",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what color is the cutting board?",
+                "predicted_answer": "brown",
+                "answer": "brown",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "do the carrots look fresh?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "was the picture taken inside or outside?",
+                "predicted_answer": "inside",
+                "answer": "inside",
+                "pred_fine_tuned": "inside"
+            },
+            {
+                "question": "is the picture bright or dark?",
+                "predicted_answer": "bright",
+                "answer": "bright",
+                "pred_fine_tuned": "bright"
+            },
+            {
+                "question": "what is the cutting board made of?",
+                "predicted_answer": "wood",
+                "answer": "wood",
+                "pred_fine_tuned": "wood"
+            },
+            {
+                "question": "what is its color?",
+                "predicted_answer": "white",
+                "answer": "brown",
+                "pred_fine_tuned": "white"
+            }
+        ],
+        "caption": "a bunch of carrots on a cutting board",
+        "length": 8,
+        "accuracy": 62.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001056.jpg": {
+        "dialog": [
+            {
+                "question": "is the cat sleeping or awake?",
+                "predicted_answer": "awake",
+                "answer": "awake",
+                "pred_fine_tuned": "awake"
+            },
+            {
+                "question": "does it look sleepy?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is its color?",
+                "predicted_answer": "white",
+                "answer": "grey",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "how big is it?",
+                "predicted_answer": "it is a medium sized dog",
+                "answer": "it is a medium sized cat",
+                "pred_fine_tuned": "medium sized"
+            },
+            {
+                "question": "is the chair outside or inside?",
+                "predicted_answer": "inside",
+                "answer": "outside",
+                "pred_fine_tuned": "inside"
+            },
+            {
+                "question": "is the cat alone?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it day or night time?",
+                "predicted_answer": "day",
+                "answer": "day",
+                "pred_fine_tuned": "day"
+            }
+        ],
+        "caption": "a cat is sitting on a cushion on a chair",
+        "length": 7,
+        "accuracy": 43.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001148.jpg": {
+        "dialog": [
+            {
+                "question": "can you see the ball?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it a match between men or women?",
+                "predicted_answer": "man",
+                "answer": "women",
+                "pred_fine_tuned": "man"
+            },
+            {
+                "question": "what is the weather like?",
+                "predicted_answer": "sunny",
+                "answer": "sunny",
+                "pred_fine_tuned": "sunny"
+            },
+            {
+                "question": "where do you think the match is taking place?",
+                "predicted_answer": "looks like a park",
+                "answer": "looks like a park",
+                "pred_fine_tuned": "looks like a park"
+            },
+            {
+                "question": "can you see spectators?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many approximately?",
+                "predicted_answer": "three",
+                "answer": "around thirty",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "how many players can you see?",
+                "predicted_answer": "two",
+                "answer": "two",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "do they look professional or amateur?",
+                "predicted_answer": "professional",
+                "answer": "amateur",
+                "pred_fine_tuned": "professional"
+            }
+        ],
+        "caption": "a picture of a soccer match",
+        "length": 8,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001239.jpg": {
+        "dialog": [
+            {
+                "question": "how many giraffes can you see?",
+                "predicted_answer": "two",
+                "answer": "three",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "are the giraffes old or young?",
+                "predicted_answer": "young",
+                "answer": "old",
+                "pred_fine_tuned": "young"
+            },
+            {
+                "question": "are they eating?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is it at day or night time?",
+                "predicted_answer": "day",
+                "answer": "day",
+                "pred_fine_tuned": "day"
+            },
+            {
+                "question": "can you see other things in the picture?",
+                "predicted_answer": "trees",
+                "answer": "trees",
+                "pred_fine_tuned": "trees"
+            },
+            {
+                "question": "how many?",
+                "predicted_answer": "two",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "how big are the giraffes?",
+                "predicted_answer": "they are small",
+                "answer": "they are pretty big",
+                "pred_fine_tuned": "they are small"
+            }
+        ],
+        "caption": "giraffes in a zoo",
+        "length": 7,
+        "accuracy": 43.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001255.jpg": {
+        "dialog": [
+            {
+                "question": "where do you think the woman is?",
+                "predicted_answer": "in a room",
+                "answer": "in a room",
+                "pred_fine_tuned": "in a room"
+            },
+            {
+                "question": "what kind of room?",
+                "predicted_answer": "living room",
+                "answer": "a library",
+                "pred_fine_tuned": "living room"
+            },
+            {
+                "question": "does she look happy?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is her ethnicity?",
+                "predicted_answer": "white",
+                "answer": "asian",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "are there other people around?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is she sitting or standing?",
+                "predicted_answer": "standing",
+                "answer": "sitting",
+                "pred_fine_tuned": "standing"
+            },
+            {
+                "question": "can you see her teeth?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is she wearing?",
+                "predicted_answer": "a white shirt",
+                "answer": "a brown shirt",
+                "pred_fine_tuned": "a white shirt"
+            }
+        ],
+        "caption": "a close up of a woman smiling",
+        "length": 8,
+        "accuracy": 38.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001300.jpg": {
+        "dialog": [
+            {
+                "question": "how many zebras can you see?",
+                "predicted_answer": "two",
+                "answer": "around seven",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "do you think they are in the wild",
+                "predicted_answer": "yes",
+                "answer": "wild",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "are they eating?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do  you thnik they are male or female?",
+                "predicted_answer": "no",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "a close up of a herd of zebras",
+        "length": 4,
+        "accuracy": 25.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001405.jpg": {
+        "dialog": [
+            {
+                "question": "how old is the woman?",
+                "predicted_answer": "i can not see her face",
+                "answer": "in her 20s",
+                "pred_fine_tuned": "maybe in her 30s"
+            },
+            {
+                "question": "what is she wearing?",
+                "predicted_answer": "a white shirt and blue jeans",
+                "answer": "a white shirt and black shorts",
+                "pred_fine_tuned": "a white shirt and blue jeans"
+            },
+            {
+                "question": "can you see the tennis ball?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is she inside or outside?",
+                "predicted_answer": "outside",
+                "answer": "outside",
+                "pred_fine_tuned": "outside"
+            },
+            {
+                "question": "do she look professional?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "at what time do you think the picture was taken?",
+                "predicted_answer": "i can not tell",
+                "answer": "in the afternoon",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "is she alone?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a woman is playing tennis",
+        "length": 7,
+        "accuracy": 43.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001474.jpg": {
+        "dialog": [
+            {
+                "question": "how many people can you see?",
+                "predicted_answer": "one",
+                "answer": "four",
+                "pred_fine_tuned": "one"
+            },
+            {
+                "question": "how old are they?",
+                "predicted_answer": "maybe 30s",
+                "answer": "maybe 30s",
+                "pred_fine_tuned": "maybe 30s"
+            },
+            {
+                "question": "can you see their faces?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it day or night time?",
+                "predicted_answer": "day",
+                "answer": "night",
+                "pred_fine_tuned": "day"
+            },
+            {
+                "question": "are they inside or outside?",
+                "predicted_answer": "inside",
+                "answer": "inside",
+                "pred_fine_tuned": "inside"
+            },
+            {
+                "question": "do they seem to be having fun?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "people chilling and playing video games",
+        "length": 6,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001534.jpg": {
+        "dialog": [
+            {
+                "question": "how many people can you see?",
+                "predicted_answer": "three",
+                "answer": "five",
+                "pred_fine_tuned": "three"
+            },
+            {
+                "question": "can you see the fresbee?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "where are they playing?",
+                "predicted_answer": "outside",
+                "answer": "outside",
+                "pred_fine_tuned": "outside"
+            },
+            {
+                "question": "what is the weather like?",
+                "predicted_answer": "sunny",
+                "answer": "sunny",
+                "pred_fine_tuned": "sunny"
+            },
+            {
+                "question": "do they seem to be having fun? ",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what are they wearing?",
+                "predicted_answer": "shorts and t shirts",
+                "answer": "shorts and shirts",
+                "pred_fine_tuned": "shorts and t shirts"
+            }
+        ],
+        "caption": "people playing frisbee",
+        "length": 6,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001543.jpg": {
+        "dialog": [
+            {
+                "question": "is the person a man or a woman?",
+                "predicted_answer": "man",
+                "answer": "man",
+                "pred_fine_tuned": "man"
+            },
+            {
+                "question": "how old does he seem to be?",
+                "predicted_answer": "i can not tell",
+                "answer": "30s",
+                "pred_fine_tuned": "maybe in his 30s"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a wetsuit",
+                "answer": "a wetsuit",
+                "pred_fine_tuned": "a wetsuit"
+            },
+            {
+                "question": "is he professional?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is he in the ocean or in a lake?",
+                "predicted_answer": "ocean",
+                "answer": "lake",
+                "pred_fine_tuned": "ocean"
+            },
+            {
+                "question": "what is the weather like?",
+                "predicted_answer": "sunny",
+                "answer": "cloudy",
+                "pred_fine_tuned": "sunny"
+            },
+            {
+                "question": "does he have tattoos?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is the color of his wetsuit?",
+                "predicted_answer": "black",
+                "answer": "black",
+                "pred_fine_tuned": "black"
+            }
+        ],
+        "caption": "a person is practising surfing",
+        "length": 8,
+        "accuracy": 62.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001814.jpg": {
+        "dialog": [
+            {
+                "question": "what is the gender of the cyclist?",
+                "predicted_answer": "male",
+                "answer": "male",
+                "pred_fine_tuned": "male"
+            },
+            {
+                "question": "how old is he?",
+                "predicted_answer": "maybe in his 20s",
+                "answer": "maybe in his 30s",
+                "pred_fine_tuned": "maybe in his 30s"
+            },
+            {
+                "question": "where is he?",
+                "predicted_answer": "in a park",
+                "answer": "on a street",
+                "pred_fine_tuned": "in a park"
+            },
+            {
+                "question": "does he have a bike?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a black shirt and jeans",
+                "answer": "cycling gear",
+                "pred_fine_tuned": "a black shirt and jeans"
+            },
+            {
+                "question": "is he smiling?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "at what time was the picture taken?",
+                "predicted_answer": "it is a very nice day",
+                "answer": "in the afternoon",
+                "pred_fine_tuned": "it is a very nice day"
+            }
+        ],
+        "caption": "a close up of a cyclist",
+        "length": 7,
+        "accuracy": 14.000000000000002
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001826.jpg": {
+        "dialog": [
+            {
+                "question": "what color is the sign?",
+                "predicted_answer": "white",
+                "answer": "green and white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what does it say?",
+                "predicted_answer": "it is a street sign",
+                "answer": "escolta st",
+                "pred_fine_tuned": "it is a stop sign"
+            },
+            {
+                "question": "is it in english?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a close up of a street sign",
+        "length": 3,
+        "accuracy": 0.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001829.jpg": {
+        "dialog": [
+            {
+                "question": "how many woman?",
+                "predicted_answer": "two",
+                "answer": "two",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "how old are they?",
+                "predicted_answer": "maybe 30s",
+                "answer": "maybe 20s",
+                "pred_fine_tuned": "maybe 30s"
+            },
+            {
+                "question": "what are they wearing?",
+                "predicted_answer": "one is wearing a black shirt and the other is",
+                "answer": "casual clothes",
+                "pred_fine_tuned": "one is wearing a black shirt and the other is"
+            },
+            {
+                "question": "is it summer time?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "are there other people around?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what can you see in the background?",
+                "predicted_answer": "a building",
+                "answer": "trees",
+                "pred_fine_tuned": "a building in the background"
+            },
+            {
+                "question": "what is the ethnicity of the women?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "are they smiling?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "women posing behind a stop sign",
+        "length": 8,
+        "accuracy": 38.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001866.jpg": {
+        "dialog": [
+            {
+                "question": "what is the gender of the surfer?",
+                "predicted_answer": "male",
+                "answer": "male",
+                "pred_fine_tuned": "male"
+            },
+            {
+                "question": "where is he holding the board?",
+                "predicted_answer": "on the ground",
+                "answer": "over the head",
+                "pred_fine_tuned": "on the ground"
+            },
+            {
+                "question": "what is the color of the board?",
+                "predicted_answer": "white",
+                "answer": "white and blue",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what is the sufer wearing?",
+                "predicted_answer": "a white shirt and blue jeans",
+                "answer": "shorts",
+                "pred_fine_tuned": "a white shirt and blue jeans"
+            },
+            {
+                "question": "where is he exactly?",
+                "predicted_answer": "in a park",
+                "answer": "on the beach",
+                "pred_fine_tuned": "in a park"
+            },
+            {
+                "question": "what is the color of the sand?",
+                "predicted_answer": "brown",
+                "answer": "brown",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "what is the weather like?",
+                "predicted_answer": "sunny",
+                "answer": "sunny",
+                "pred_fine_tuned": "sunny"
+            },
+            {
+                "question": "is he smiling?",
+                "predicted_answer": "no",
+                "answer": "i can not see his face",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is he fit?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a surfer is holding a board and a paddle",
+        "length": 9,
+        "accuracy": 33.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000001971.jpg": {
+        "dialog": [
+            {
+                "question": "do you see any workers?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "where do you think the construction site is?",
+                "predicted_answer": "it is a city bus",
+                "answer": "in the city",
+                "pred_fine_tuned": "it is a city bus"
+            },
+            {
+                "question": "what is in the background?",
+                "predicted_answer": "a building",
+                "answer": "a building?",
+                "pred_fine_tuned": "a building"
+            },
+            {
+                "question": "is is messy or tidy?",
+                "predicted_answer": "it is clean",
+                "answer": "it is clean",
+                "pred_fine_tuned": "it is clean"
+            },
+            {
+                "question": "does it look almost done?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what warning signs can you see?",
+                "predicted_answer": "i can not tell",
+                "answer": "stop sign and traffic lights",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "does is look dangerous for pedestrians?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "a picture of a construction site",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000002069.jpg": {
+        "dialog": [
+            {
+                "question": "what is the relashionship between the woman and the boy?",
+                "predicted_answer": "i can not see the face",
+                "answer": "her son",
+                "pred_fine_tuned": "a cat"
+            },
+            {
+                "question": "how old is the woman?",
+                "predicted_answer": "maybe in her 30s",
+                "answer": "over fifty",
+                "pred_fine_tuned": "maybe in her 30s"
+            },
+            {
+                "question": "what are they eating?",
+                "predicted_answer": "looks like a sandwich",
+                "answer": "pizza",
+                "pred_fine_tuned": "looks like a sandwich"
+            },
+            {
+                "question": "do they seem happy together?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "are they hungry?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do you see drinks too?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what are they wearing?",
+                "predicted_answer": "one is wearing a blue shirt and the other is",
+                "answer": "casual clothes",
+                "pred_fine_tuned": "a blue shirt and black pants"
+            },
+            {
+                "question": "does it look like a fancy restaurant?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a woman is eating with a boy at a restaurant",
+        "length": 8,
+        "accuracy": 38.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000002088.jpg": {
+        "dialog": [
+            {
+                "question": "what is the breed of the dog?",
+                "predicted_answer": "i can not tell",
+                "answer": "golden retriever",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "how big is the dog?",
+                "predicted_answer": "medium sized",
+                "answer": "pretty big",
+                "pred_fine_tuned": "medium sized"
+            },
+            {
+                "question": "is its tongue out?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is in the background?",
+                "predicted_answer": "the sky",
+                "answer": "trees",
+                "pred_fine_tuned": "a wall"
+            },
+            {
+                "question": "is it well behaved?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what color is it?",
+                "predicted_answer": "white",
+                "answer": "golden",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "is it wearing a collar?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "a close up of a dog wearing a hat",
+        "length": 7,
+        "accuracy": 14.000000000000002
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000002307.jpg": {
+        "dialog": [
+            {
+                "question": "how many kites are there?",
+                "predicted_answer": "i see three",
+                "answer": "i see three",
+                "pred_fine_tuned": "i see three"
+            },
+            {
+                "question": "what shape do they have?",
+                "predicted_answer": "rectangle",
+                "answer": "they are shaped like fish",
+                "pred_fine_tuned": "rectangle"
+            },
+            {
+                "question": "what is in the background?",
+                "predicted_answer": "trees",
+                "answer": "trees and houses",
+                "pred_fine_tuned": "trees"
+            },
+            {
+                "question": "who is flying them?",
+                "predicted_answer": "i can not tell",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "is the sky clear or cloudy?",
+                "predicted_answer": "clear",
+                "answer": "clear",
+                "pred_fine_tuned": "clear"
+            },
+            {
+                "question": "is it a colored image?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many trees in the bachground can you see?",
+                "predicted_answer": "i can see three",
+                "answer": "more than five",
+                "pred_fine_tuned": "i can see three"
+            }
+        ],
+        "caption": "kites flying in the sky",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000002327.jpg": {
+        "dialog": [
+            {
+                "question": "can you tell the time?",
+                "predicted_answer": "one thousand one hundred and thirty",
+                "answer": "thirty five past seven",
+                "pred_fine_tuned": "one thousand one hundred and thirty"
+            },
+            {
+                "question": "at what time of the day was the picture taken?",
+                "predicted_answer": "afternoon",
+                "answer": "afternoon",
+                "pred_fine_tuned": "afternoon"
+            },
+            {
+                "question": "do you see other buildings in the background?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the picture in colors?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see people?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is the building made of?",
+                "predicted_answer": "brick",
+                "answer": "brick",
+                "pred_fine_tuned": "brick"
+            },
+            {
+                "question": "what color does it have?",
+                "predicted_answer": "black",
+                "answer": "brown",
+                "pred_fine_tuned": "black"
+            }
+        ],
+        "caption": "a close up of the big ben",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000002655.jpg": {
+        "dialog": [
+            {
+                "question": "how tidy is the kitchen?",
+                "predicted_answer": "it is pretty big",
+                "answer": "not very tidy",
+                "pred_fine_tuned": "it is pretty big"
+            },
+            {
+                "question": "is the floor made of wood?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "are people currently in it?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do you see food around?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do you see a fridge?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the light turned on or off?",
+                "predicted_answer": "on",
+                "answer": "on",
+                "pred_fine_tuned": "on"
+            },
+            {
+                "question": "how big is it?",
+                "predicted_answer": "it is a small kitchen",
+                "answer": "it is a big kitchen",
+                "pred_fine_tuned": "it is a small kitchen"
+            }
+        ],
+        "caption": "a picture of a kitchen",
+        "length": 7,
+        "accuracy": 28.999999999999996
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000002714.jpg": {
+        "dialog": [
+            {
+                "question": "how many tents do you think there are?",
+                "predicted_answer": "i can see five",
+                "answer": "more than fifty",
+                "pred_fine_tuned": "i can see three"
+            },
+            {
+                "question": "is it at day or night time?",
+                "predicted_answer": "daytime",
+                "answer": "daytime",
+                "pred_fine_tuned": "day"
+            },
+            {
+                "question": "are there trees around?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many approximately?",
+                "predicted_answer": "three",
+                "answer": "around sixty",
+                "pred_fine_tuned": "three"
+            },
+            {
+                "question": "do you see the campers?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it sunny or cloudy?",
+                "predicted_answer": "sunny",
+                "answer": "sunny",
+                "pred_fine_tuned": "sunny"
+            },
+            {
+                "question": "what is the occasion of this gathering?",
+                "predicted_answer": "i do not know",
+                "answer": "i do not know",
+                "pred_fine_tuned": "i can not tell"
+            }
+        ],
+        "caption": "lots of tents in a camping park",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000002715.jpg": {
+        "dialog": [
+            {
+                "question": "what color is the cat?",
+                "predicted_answer": "black and white",
+                "answer": "brown",
+                "pred_fine_tuned": "black and white"
+            },
+            {
+                "question": "what is the gender of the cat?",
+                "predicted_answer": "i can not tell",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "is it sleeping or awake?",
+                "predicted_answer": "awake",
+                "answer": "awake",
+                "pred_fine_tuned": "awake"
+            },
+            {
+                "question": "do you see any reflexions in the mirror?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the cat alone?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a cat sitting in front of a mirror",
+        "length": 5,
+        "accuracy": 40.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000002778.jpg": {
+        "dialog": [
+            {
+                "question": "what is the color of the church?",
+                "predicted_answer": "brown",
+                "answer": "white and brown",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "can you see the sky in the backround?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it clear then?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "at what time of the day do you think the picture wass taken?",
+                "predicted_answer": "it is daytime",
+                "answer": "in the afternoon",
+                "pred_fine_tuned": "afternoon"
+            },
+            {
+                "question": "what else can be seen?#",
+                "predicted_answer": "a building",
+                "answer": "a building?",
+                "pred_fine_tuned": "a building"
+            },
+            {
+                "question": "what kind of a building?",
+                "predicted_answer": "it is a brick building",
+                "answer": "it is a brick building",
+                "pred_fine_tuned": "a brick building"
+            }
+        ],
+        "caption": "a close up of a church",
+        "length": 6,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000002927.jpg": {
+        "dialog": [
+            {
+                "question": "how old is the man?",
+                "predicted_answer": "maybe in his 30s",
+                "answer": "maybe in his 30s",
+                "pred_fine_tuned": "maybe in his 30s"
+            },
+            {
+                "question": "whom is he texting?",
+                "predicted_answer": "no",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "why is he smiling?",
+                "predicted_answer": "he is smiling",
+                "answer": "i do not know",
+                "pred_fine_tuned": "he is smiling"
+            },
+            {
+                "question": "where is he?",
+                "predicted_answer": "in a home",
+                "answer": "in a home",
+                "pred_fine_tuned": "in a home"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a black shirt",
+                "answer": "a blue and white shirt",
+                "pred_fine_tuned": "a black shirt and jeans"
+            },
+            {
+                "question": "do you see other people with him?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the house big?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is he wearing a watch?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "a man texting and smiling",
+        "length": 8,
+        "accuracy": 38.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000002935.jpg": {
+        "dialog": [
+            {
+                "question": "how old is the woman?",
+                "predicted_answer": "maybe in her 30s",
+                "answer": "maybe in her 20s",
+                "pred_fine_tuned": "maybe in her 30s"
+            },
+            {
+                "question": "what is she wearing?",
+                "predicted_answer": "a white shirt",
+                "answer": "a black shirt",
+                "pred_fine_tuned": "a white shirt"
+            },
+            {
+                "question": "where do you thnik is she?",
+                "predicted_answer": "she is in a restaurant",
+                "answer": "she is in a restaurant",
+                "pred_fine_tuned": "in a restaurant"
+            },
+            {
+                "question": "is she alone?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is the color of her hair?",
+                "predicted_answer": "brown",
+                "answer": "brown",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "what is the color of her eyes?",
+                "predicted_answer": "black",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "is she smiling?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how is the weather outside the restaurant?",
+                "predicted_answer": "sunny",
+                "answer": "sunny",
+                "pred_fine_tuned": "sunny"
+            }
+        ],
+        "caption": "a picture of a woman eating a brownie",
+        "length": 8,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000003025.jpg": {
+        "dialog": [
+            {
+                "question": "where are the zebras?",
+                "predicted_answer": "they are standing in the water",
+                "answer": "in the wild",
+                "pred_fine_tuned": "in a field"
+            },
+            {
+                "question": "do you see green plants then?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "are they running or standing?",
+                "predicted_answer": "standing",
+                "answer": "standing",
+                "pred_fine_tuned": "standing"
+            },
+            {
+                "question": "are they eating grass?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the sun shining?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do they look friendly?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a picture of a mother zebra and its son",
+        "length": 6,
+        "accuracy": 67.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000003059.jpg": {
+        "dialog": [
+            {
+                "question": "what color are the cats?",
+                "predicted_answer": "black and white",
+                "answer": "black and white",
+                "pred_fine_tuned": "black and white"
+            },
+            {
+                "question": "are they sleeping?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the bed well done?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do you see their owner?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is their gender?",
+                "predicted_answer": "male",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "male"
+            },
+            {
+                "question": "do they seem tired?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "two cats laying on a bed",
+        "length": 6,
+        "accuracy": 33.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000003190.jpg": {
+        "dialog": [
+            {
+                "question": "how old is the elephant?",
+                "predicted_answer": "maybe in his twenties",
+                "answer": "pretty old",
+                "pred_fine_tuned": "maybe in his 20s"
+            },
+            {
+                "question": "is it alone?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it a male or a female?",
+                "predicted_answer": "male",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "male"
+            },
+            {
+                "question": "is it in a zoo or in the wild?",
+                "predicted_answer": "wild",
+                "answer": "wild",
+                "pred_fine_tuned": "wild"
+            },
+            {
+                "question": "what is the weather like?",
+                "predicted_answer": "sunny",
+                "answer": "sunny",
+                "pred_fine_tuned": "sunny"
+            },
+            {
+                "question": "do you see humans around?",
+                "predicted_answer": "no",
+                "answer": "i see one human",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is in the background?",
+                "predicted_answer": "trees",
+                "answer": "trees",
+                "pred_fine_tuned": "trees"
+            }
+        ],
+        "caption": "a picture of an elephant eating a plant",
+        "length": 7,
+        "accuracy": 43.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000003205.jpg": {
+        "dialog": [
+            {
+                "question": "what is its color?",
+                "predicted_answer": "brown",
+                "answer": "white",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "do see trees around it?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many?",
+                "predicted_answer": "two",
+                "answer": "over twenty",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "do you see other horses?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the sun shining?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the horse a male or a female?",
+                "predicted_answer": "male",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "male"
+            },
+            {
+                "question": "does it look beautiful?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a horse in a forest looking at the camera",
+        "length": 7,
+        "accuracy": 43.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000003211.jpg": {
+        "dialog": [
+            {
+                "question": "what is the gender of the skier",
+                "predicted_answer": "male",
+                "answer": "female",
+                "pred_fine_tuned": "male"
+            },
+            {
+                "question": "how old is the skier?",
+                "predicted_answer": "i can not tell",
+                "answer": "in her 20s",
+                "pred_fine_tuned": "maybe in his 30s"
+            },
+            {
+                "question": "is it at day or at night?",
+                "predicted_answer": "day",
+                "answer": "night",
+                "pred_fine_tuned": "day"
+            },
+            {
+                "question": "is she wearing a helmet?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is the color of her helmet?",
+                "predicted_answer": "black",
+                "answer": "purple",
+                "pred_fine_tuned": "black"
+            },
+            {
+                "question": "does she look professional?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you tell where she is?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "does she look sared?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a picture of a skier midair",
+        "length": 8,
+        "accuracy": 25.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000003419.jpg": {
+        "dialog": [
+            {
+                "question": "is the plane on the ground or in the sky?",
+                "predicted_answer": "on the ground",
+                "answer": "in the sky",
+                "pred_fine_tuned": "on the ground"
+            },
+            {
+                "question": "can you see the engine of the plane?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "and the wing?",
+                "predicted_answer": "it is black",
+                "answer": "yes as well",
+                "pred_fine_tuned": "it is a black and white photo"
+            },
+            {
+                "question": "can you see the ground?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "are many clouds in the picture?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is the color of the engine?",
+                "predicted_answer": "black",
+                "answer": "green",
+                "pred_fine_tuned": "black"
+            },
+            {
+                "question": "what about the wing?",
+                "predicted_answer": "it is white",
+                "answer": "it is grey",
+                "pred_fine_tuned": "it is white"
+            }
+        ],
+        "caption": "a picture outside a plane window",
+        "length": 7,
+        "accuracy": 28.999999999999996
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000003552.jpg": {
+        "dialog": [
+            {
+                "question": "can you see any construction workers?",
+                "predicted_answer": "no",
+                "answer": "yes many",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is it in a city or a rural region?",
+                "predicted_answer": "city",
+                "answer": "city",
+                "pred_fine_tuned": "city"
+            },
+            {
+                "question": "how big is the building being constructed?",
+                "predicted_answer": "it is a small plane",
+                "answer": "it is a medium sized building",
+                "pred_fine_tuned": "it is a small plane"
+            },
+            {
+                "question": "when was the picture taken?",
+                "predicted_answer": "i would say mid day",
+                "answer": "i would say mid day",
+                "pred_fine_tuned": "i would say mid day"
+            },
+            {
+                "question": "what else can you see?",
+                "predicted_answer": "a building and a building",
+                "answer": "trees and trucks",
+                "pred_fine_tuned": "a building and a building"
+            },
+            {
+                "question": "does the site look safe?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the site busy?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "it is a sunny or a cloudy day?",
+                "predicted_answer": "sunny",
+                "answer": "sunny",
+                "pred_fine_tuned": "sunny"
+            }
+        ],
+        "caption": "a picture of a construction site of a building",
+        "length": 8,
+        "accuracy": 62.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000003644.jpg": {
+        "dialog": [
+            {
+                "question": "does the dog look homeless?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is the color of the plate?",
+                "predicted_answer": "white",
+                "answer": "red",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "is it clean?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is the dog doing?",
+                "predicted_answer": "standing",
+                "answer": "standing",
+                "pred_fine_tuned": "standing"
+            },
+            {
+                "question": "what is on the plate?",
+                "predicted_answer": "looks like a pie",
+                "answer": "nothing",
+                "pred_fine_tuned": "looks like a pie of some kind"
+            },
+            {
+                "question": "what is the color of the dog?",
+                "predicted_answer": "brown",
+                "answer": "brown",
+                "pred_fine_tuned": "brown and white"
+            },
+            {
+                "question": "is it alone?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a dog beside a plate in the park",
+        "length": 7,
+        "accuracy": 43.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000003721.jpg": {
+        "dialog": [
+            {
+                "question": "how many people can you see?",
+                "predicted_answer": "two",
+                "answer": "four",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "what is the woman playing wearing?",
+                "predicted_answer": "a white shirt and blue jeans",
+                "answer": "a pink dress",
+                "pred_fine_tuned": "a white shirt and blue jeans"
+            },
+            {
+                "question": "how old is she?",
+                "predicted_answer": "maybe in her 20s",
+                "answer": "maybe in her 30s",
+                "pred_fine_tuned": "maybe in her 30s"
+            },
+            {
+                "question": "is it at night or during the day?",
+                "predicted_answer": "day",
+                "answer": "night",
+                "pred_fine_tuned": "day"
+            },
+            {
+                "question": "can you see a television?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is her ethnicity?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "is she any good?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a women playing video games in the living room with her friends",
+        "length": 7,
+        "accuracy": 28.999999999999996
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000003734.jpg": {
+        "dialog": [
+            {
+                "question": "is it in the city or the country side?",
+                "predicted_answer": "city",
+                "answer": "country side",
+                "pred_fine_tuned": "city"
+            },
+            {
+                "question": "does the woman seem to be bored?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is she alone?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what color is the bus?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what is written on the bus?",
+                "predicted_answer": "it is a street sign",
+                "answer": "santa azur",
+                "pred_fine_tuned": "it says welcome to the plays sign"
+            },
+            {
+                "question": "what else can you see?",
+                "predicted_answer": "a building",
+                "answer": "a tree",
+                "pred_fine_tuned": "a building"
+            },
+            {
+                "question": "what is the woman wearing?",
+                "predicted_answer": "a black shirt and jeans",
+                "answer": "a blue vest and a blue skirt",
+                "pred_fine_tuned": "a black shirt and jeans"
+            },
+            {
+                "question": "how old is she?",
+                "predicted_answer": "maybe in her 20s",
+                "answer": "over forty",
+                "pred_fine_tuned": "maybe in her 30s"
+            }
+        ],
+        "caption": "a woman standing beside a bus",
+        "length": 8,
+        "accuracy": 38.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000003854.jpg": {
+        "dialog": [
+            {
+                "question": "how big is the elephant?",
+                "predicted_answer": "it is a small dog",
+                "answer": "it is huge",
+                "pred_fine_tuned": "it is a small dog"
+            },
+            {
+                "question": "does it seem agressive?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is it doing?",
+                "predicted_answer": "standing",
+                "answer": "standing",
+                "pred_fine_tuned": "standing"
+            },
+            {
+                "question": "is it in the wild?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what can you see in the background?",
+                "predicted_answer": "trees",
+                "answer": "trees",
+                "pred_fine_tuned": "trees"
+            },
+            {
+                "question": "can you see its face?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is it looking at?",
+                "predicted_answer": "the ground",
+                "answer": "the ground",
+                "pred_fine_tuned": "the ground"
+            }
+        ],
+        "caption": "a close up of an elephant",
+        "length": 7,
+        "accuracy": 71.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000004028.jpg": {
+        "dialog": [
+            {
+                "question": "where do you think the setting is?",
+                "predicted_answer": "in a restaurant",
+                "answer": "in a kitchen",
+                "pred_fine_tuned": "in a restaurant"
+            },
+            {
+                "question": "is the grinder being used?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "can you see food around?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do you see people around?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what else is on the table?",
+                "predicted_answer": "a cup of coffee a bowl a bowl of fruit",
+                "answer": "a knife and bread",
+                "pred_fine_tuned": "a cup of coffee a bowl a bowl of fruit"
+            },
+            {
+                "question": "is the image in colors?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the setting clean or dirty?",
+                "predicted_answer": "clean",
+                "answer": "dirty",
+                "pred_fine_tuned": "clean"
+            }
+        ],
+        "caption": "a picture of a grinder attached to a table",
+        "length": 7,
+        "accuracy": 28.999999999999996
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000004225.jpg": {
+        "dialog": [
+            {
+                "question": "how old is the woman?",
+                "predicted_answer": "maybe in her 30s",
+                "answer": "maybe in her 30s",
+                "pred_fine_tuned": "maybe in her 30s"
+            },
+            {
+                "question": "what is she wearing?",
+                "predicted_answer": "a black shirt and jeans",
+                "answer": "a dress",
+                "pred_fine_tuned": "a black shirt and jeans"
+            },
+            {
+                "question": "is she happy or sad?",
+                "predicted_answer": "she is smiling",
+                "answer": "she is smiling",
+                "pred_fine_tuned": "she is smiling"
+            },
+            {
+                "question": "what is the background?",
+                "predicted_answer": "a building",
+                "answer": "buildings",
+                "pred_fine_tuned": "a building"
+            },
+            {
+                "question": "does it look like in europe or united states?",
+                "predicted_answer": "no",
+                "answer": "europe",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "does the appartement look fency?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "does she look rich?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "who do you think is she talking to?",
+                "predicted_answer": "i can not tell",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "i can not tell"
+            }
+        ],
+        "caption": "a woman in an appartement talking on the phone",
+        "length": 8,
+        "accuracy": 62.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000004321.jpg": {
+        "dialog": [
+            {
+                "question": "are there many cars around?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many cars can you see?",
+                "predicted_answer": "two",
+                "answer": "over ten",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "are there people too?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many?",
+                "predicted_answer": "about ten",
+                "answer": "about ten",
+                "pred_fine_tuned": "about ten"
+            },
+            {
+                "question": "what are the people buying?",
+                "predicted_answer": "they are in a different language",
+                "answer": "vegetables",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "does it look like a safe place?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do the people look poor or rich?",
+                "predicted_answer": "they look like they are in a group",
+                "answer": "rather poor",
+                "pred_fine_tuned": "they look like they are in a group"
+            },
+            {
+                "question": "is the street clean?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a picture of a market in the middle of a street",
+        "length": 8,
+        "accuracy": 62.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000004374.jpg": {
+        "dialog": [
+            {
+                "question": "where do you think he is?",
+                "predicted_answer": "i can not tell",
+                "answer": "in a bathroom",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "how old is he?",
+                "predicted_answer": "maybe in his 30s",
+                "answer": "maybe in his 30s",
+                "pred_fine_tuned": "maybe in his 30s"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a black shirt",
+                "answer": "a black shirt",
+                "pred_fine_tuned": "a black shirt"
+            },
+            {
+                "question": "is he smiling?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is it in the morning or at night?",
+                "predicted_answer": "i can not tell",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "night"
+            },
+            {
+                "question": "what color is his hair?",
+                "predicted_answer": "brown",
+                "answer": "blond",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "is he using a phone or a camera to take a photo?",
+                "predicted_answer": "it is a flip phone",
+                "answer": "a camera",
+                "pred_fine_tuned": "it is a flip phone"
+            },
+            {
+                "question": "what color is his brush?",
+                "predicted_answer": "black",
+                "answer": "white",
+                "pred_fine_tuned": "black"
+            }
+        ],
+        "caption": "a man taking a picture while brushing his teeth",
+        "length": 8,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000004401.jpg": {
+        "dialog": [
+            {
+                "question": "how many people can you see?",
+                "predicted_answer": "one",
+                "answer": "four",
+                "pred_fine_tuned": "one"
+            },
+            {
+                "question": "is the picture in colors?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how old do they look?",
+                "predicted_answer": "maybe 30s",
+                "answer": "maybe 20s",
+                "pred_fine_tuned": "maybe 30s"
+            },
+            {
+                "question": "where are they?",
+                "predicted_answer": "in a park",
+                "answer": "in a park",
+                "pred_fine_tuned": "in a park"
+            },
+            {
+                "question": "what are they wearing?",
+                "predicted_answer": "one is wearing a black shirt and the other is",
+                "answer": "casual clothes",
+                "pred_fine_tuned": "one is wearing a black shirt and the other is"
+            },
+            {
+                "question": "how many skate boards can you see",
+                "predicted_answer": "two",
+                "answer": "two",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "do the skate boards look new?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a group of freinds skate boarding",
+        "length": 7,
+        "accuracy": 28.999999999999996
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000004420.jpg": {
+        "dialog": [
+            {
+                "question": "how big is the kitchen?",
+                "predicted_answer": "it is a small bathroom",
+                "answer": "small",
+                "pred_fine_tuned": "it is a small kitchen"
+            },
+            {
+                "question": "does it look modern?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do you see many appliances?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "are there people cooking?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do you think it is dirty or clean?",
+                "predicted_answer": "clean",
+                "answer": "dirty",
+                "pred_fine_tuned": "clean"
+            },
+            {
+                "question": "is it sunny outside?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "does it have a fridge?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a picture of a kitchen in a modest house",
+        "length": 7,
+        "accuracy": 43.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000004464.jpg": {
+        "dialog": [
+            {
+                "question": "how does the kitchen look like?",
+                "predicted_answer": "it is a small mess",
+                "answer": "modern",
+                "pred_fine_tuned": "it is a small mess"
+            },
+            {
+                "question": "is it well lit?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what color are the walls?",
+                "predicted_answer": "white",
+                "answer": "grey and white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what else can you see?",
+                "predicted_answer": "a wall",
+                "answer": "a wall",
+                "pred_fine_tuned": "a wall a door and a window"
+            },
+            {
+                "question": "can you see a stove?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a close up of corner in a kitchen ",
+        "length": 5,
+        "accuracy": 40.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000004485.jpg": {
+        "dialog": [
+            {
+                "question": "is it at night or in the middle of the day?",
+                "predicted_answer": "day",
+                "answer": "night",
+                "pred_fine_tuned": "day"
+            },
+            {
+                "question": "does he look drunk?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a black jacket and black pants",
+                "answer": "a shirt and jeans",
+                "pred_fine_tuned": "a black wetsuit"
+            },
+            {
+                "question": "are there cars around him?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "how old does he look like?",
+                "predicted_answer": "maybe in his 20s",
+                "answer": "maybe in his 30s",
+                "pred_fine_tuned": "maybe in his 30s"
+            }
+        ],
+        "caption": "a man is dancing in the middle of the street",
+        "length": 5,
+        "accuracy": 0.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000004611.jpg": {
+        "dialog": [
+            {
+                "question": "how many cows can you see?",
+                "predicted_answer": "three",
+                "answer": "about twenty",
+                "pred_fine_tuned": "three"
+            },
+            {
+                "question": "is the field huge?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is in the background?",
+                "predicted_answer": "trees",
+                "answer": "trees",
+                "pred_fine_tuned": "trees and a mountain"
+            },
+            {
+                "question": "how many?",
+                "predicted_answer": "three",
+                "answer": "over thirty",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "what time of the day was the picture taken?",
+                "predicted_answer": "afternoon",
+                "answer": "afternoon",
+                "pred_fine_tuned": "afternoon"
+            },
+            {
+                "question": "can you see the sky?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how is it?",
+                "predicted_answer": "it is a small bird",
+                "answer": "clear",
+                "pred_fine_tuned": "it is a small bird"
+            }
+        ],
+        "caption": "a herd of cows grazing in a field",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000004894.jpg": {
+        "dialog": [
+            {
+                "question": "are there many people in the fair?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many exactly?",
+                "predicted_answer": "two",
+                "answer": "around ten",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "are the guest look impressed?",
+                "predicted_answer": "yes",
+                "answer": "not really",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the fair focusing on new weapons?",
+                "predicted_answer": "no",
+                "answer": "i think so",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what are the people wearing?",
+                "predicted_answer": "one is wearing a black shirt and the other is",
+                "answer": "military gear and suits",
+                "pred_fine_tuned": "one is wearing a blue shirt and the other is"
+            },
+            {
+                "question": "is the fair taking place inside or outside?",
+                "predicted_answer": "inside",
+                "answer": "inside",
+                "pred_fine_tuned": "inside"
+            },
+            {
+                "question": "are there women too or only men?",
+                "predicted_answer": "i can not tell",
+                "answer": "i can see one",
+                "pred_fine_tuned": "i can not tell"
+            }
+        ],
+        "caption": "a man showcasing new military inventions in a fair",
+        "length": 7,
+        "accuracy": 28.999999999999996
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000004989.jpg": {
+        "dialog": [
+            {
+                "question": "is the kid a boy or a girl?",
+                "predicted_answer": "boy",
+                "answer": "boy",
+                "pred_fine_tuned": "boy"
+            },
+            {
+                "question": "how old does the boy seem to be?",
+                "predicted_answer": "maybe five",
+                "answer": "maybe five",
+                "pred_fine_tuned": "maybe five"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a white shirt and blue shorts",
+                "answer": "an orange jersey",
+                "pred_fine_tuned": "a white shirt and blue jeans"
+            },
+            {
+                "question": "where is the boy at?",
+                "predicted_answer": "in a park",
+                "answer": "in a park",
+                "pred_fine_tuned": "in a park"
+            },
+            {
+                "question": "is he alone?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "does he look excited?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it during the day or at night?",
+                "predicted_answer": "day",
+                "answer": "day",
+                "pred_fine_tuned": "day"
+            },
+            {
+                "question": "does he seem happy?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a close up of a kid playing baseball",
+        "length": 8,
+        "accuracy": 75.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000005196.jpg": {
+        "dialog": [
+            {
+                "question": "what color is the truck?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "where is the man?",
+                "predicted_answer": "on a street",
+                "answer": "on a street",
+                "pred_fine_tuned": "on a street"
+            },
+            {
+                "question": "is he on the ground or midair?",
+                "predicted_answer": "on the ground",
+                "answer": "midair",
+                "pred_fine_tuned": "on the ground"
+            },
+            {
+                "question": "is the street busy?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "can you see the sky?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what color is it?",
+                "predicted_answer": "white",
+                "answer": "blue",
+                "pred_fine_tuned": "white"
+            }
+        ],
+        "caption": "a man in a utility truck fixing a street lamp",
+        "length": 6,
+        "accuracy": 67.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000005251.jpg": {
+        "dialog": [
+            {
+                "question": "does the home look fancy?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what does the kitchen look like?",
+                "predicted_answer": "it is a wooden table",
+                "answer": "a little bit messy",
+                "pred_fine_tuned": "it is a wooden table"
+            },
+            {
+                "question": "are people using the kitchen?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is the floor made of?",
+                "predicted_answer": "wood",
+                "answer": "it is a hard floor",
+                "pred_fine_tuned": "wood"
+            },
+            {
+                "question": "how big is the kitchen",
+                "predicted_answer": "it is a small room",
+                "answer": "it is a small kitchen",
+                "pred_fine_tuned": "it is a small kitchen"
+            },
+            {
+                "question": "is it well equipped",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a picture of a kitchen in a home",
+        "length": 6,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000005306.jpg": {
+        "dialog": [
+            {
+                "question": "is it at night?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "does the food look delicious?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "does the animal look scared?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is the animal looking at?",
+                "predicted_answer": "it is a close up of the cat",
+                "answer": "the food",
+                "pred_fine_tuned": "it is a close up of the cat"
+            },
+            {
+                "question": "is the picture well lit",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the food thrown on the floor?",
+                "predicted_answer": "yes",
+                "answer": "no it is on plates and in cups",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a racoon is lured with food on the street",
+        "length": 6,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000005391.jpg": {
+        "dialog": [
+            {
+                "question": "can you tell where the surfer is?",
+                "predicted_answer": "no",
+                "answer": "at the beach",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is the weather like?",
+                "predicted_answer": "sunny",
+                "answer": "windy",
+                "pred_fine_tuned": "sunny"
+            },
+            {
+                "question": "how many parachutes can you see?",
+                "predicted_answer": "i can see two",
+                "answer": "i can see three",
+                "pred_fine_tuned": "i can see two"
+            },
+            {
+                "question": "can you see the face of the surfer?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how old is the surfer?",
+                "predicted_answer": "i can not tell",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "what is the gender of the surfer?",
+                "predicted_answer": "male",
+                "answer": "male",
+                "pred_fine_tuned": "male"
+            },
+            {
+                "question": "can you see many waves?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a parachute surfer battling with heavy wind ",
+        "length": 7,
+        "accuracy": 43.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000005542.jpg": {
+        "dialog": [
+            {
+                "question": "what kind of vegetables do you see?",
+                "predicted_answer": "carrots and broccoli",
+                "answer": "broccoli",
+                "pred_fine_tuned": "broccoli and carrots"
+            },
+            {
+                "question": "are the vegetables cut?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is the color of the kitchen counter?",
+                "predicted_answer": "brown",
+                "answer": "black",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "can you see the wall of the kitchen?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see people in the kitchen?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what else can you see?",
+                "predicted_answer": "a table",
+                "answer": "a cutting board",
+                "pred_fine_tuned": "a table"
+            },
+            {
+                "question": "is the counter messy or tidy?",
+                "predicted_answer": "clean",
+                "answer": "clean",
+                "pred_fine_tuned": "clean"
+            }
+        ],
+        "caption": "a close up of vegetables on a kitchen counter ",
+        "length": 7,
+        "accuracy": 28.999999999999996
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000005593.jpg": {
+        "dialog": [
+            {
+                "question": "how many planes can you observe?",
+                "predicted_answer": "two",
+                "answer": "three",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "are the planes taking off?",
+                "predicted_answer": "no",
+                "answer": "one is",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see passengers or only the planes?",
+                "predicted_answer": "just the engine",
+                "answer": "just the planes",
+                "pred_fine_tuned": "just the engine"
+            },
+            {
+                "question": "is the sea calm?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what color are the planes?",
+                "predicted_answer": "white and blue",
+                "answer": "white and blue",
+                "pred_fine_tuned": "white and blue"
+            },
+            {
+                "question": "is the weather good for flying?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "where is the airport?",
+                "predicted_answer": "in a park",
+                "answer": "maybe hawaii",
+                "pred_fine_tuned": "in a park"
+            }
+        ],
+        "caption": "airplanes in an airport by the sea",
+        "length": 7,
+        "accuracy": 43.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000005629.jpg": {
+        "dialog": [
+            {
+                "question": "are there a lot of buildings?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many buildings can you observe?",
+                "predicted_answer": "i can see three",
+                "answer": "i can not tell but a lot",
+                "pred_fine_tuned": "i can see three"
+            },
+            {
+                "question": "is the picture natural or photoshopped?",
+                "predicted_answer": "it is not snowing",
+                "answer": "it is not natural",
+                "pred_fine_tuned": "it is not snowing"
+            },
+            {
+                "question": "can you see the sky?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how clear is it?",
+                "predicted_answer": "very clear",
+                "answer": "very clear",
+                "pred_fine_tuned": "very clear"
+            },
+            {
+                "question": "is the sun still shining?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "are there people in the street?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what about cars?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a picture of a modern city",
+        "length": 8,
+        "accuracy": 75.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000005733.jpg": {
+        "dialog": [
+            {
+                "question": "can you see the ball?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a black shirt and jeans",
+                "answer": "white jersey",
+                "pred_fine_tuned": "a black shirt and jeans"
+            },
+            {
+                "question": "is he professional?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can he make the hit?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "does he have a hat on?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see the referee?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "can the spectators be seen?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "a baseball batter about to hit the ball",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000005763.jpg": {
+        "dialog": [
+            {
+                "question": "does it look dirty?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is there a toilet in this bathroom?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is its color?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what color is the floor?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "is there a bin around?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is it well equipped?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "would you use it?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a picture of an abandoned bathroom",
+        "length": 7,
+        "accuracy": 43.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000005805.jpg": {
+        "dialog": [
+            {
+                "question": "how many people are there?",
+                "predicted_answer": "three",
+                "answer": "twelve",
+                "pred_fine_tuned": "five"
+            },
+            {
+                "question": "what are they wearing?",
+                "predicted_answer": "one is wearing a black shirt and the other is",
+                "answer": "shirts and jeans",
+                "pred_fine_tuned": "one is wearing a black shirt and the other is"
+            },
+            {
+                "question": "do you see many boards?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many?",
+                "predicted_answer": "three",
+                "answer": "twelve",
+                "pred_fine_tuned": "three"
+            },
+            {
+                "question": "can you see the sidewalk?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is its color?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "do you think it is warm or cold?",
+                "predicted_answer": "warm",
+                "answer": "warm",
+                "pred_fine_tuned": "warm"
+            }
+        ],
+        "caption": "a group of skate boarders gathering on the sidewalk",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000005875.jpg": {
+        "dialog": [
+            {
+                "question": "does it look cold?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see other skiiers?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is the gendre of the skiier?",
+                "predicted_answer": "i can not tell",
+                "answer": "male",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a red shirt and black shorts",
+                "answer": "a skiing uniform",
+                "pred_fine_tuned": "a black wetsuit"
+            },
+            {
+                "question": "does he seem tired?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do you think he is winning?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is in the background?",
+                "predicted_answer": "trees",
+                "answer": "trees and houses",
+                "pred_fine_tuned": "trees and a mountain"
+            }
+        ],
+        "caption": "a skiier competing in some professional tournament",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000006061.jpg": {
+        "dialog": [
+            {
+                "question": "can you see snow?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many houses are in the picture?",
+                "predicted_answer": "two",
+                "answer": "two",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "is it sunny?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see people?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "can you see trees?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many?",
+                "predicted_answer": "two",
+                "answer": "a lot",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "what color are the houses?",
+                "predicted_answer": "white",
+                "answer": "yellow and brown",
+                "pred_fine_tuned": "white"
+            }
+        ],
+        "caption": "a picture of a neighborhood during the winter",
+        "length": 7,
+        "accuracy": 71.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000006113.jpg": {
+        "dialog": [
+            {
+                "question": "is the picture in colors?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is in the city?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it at day or night time?",
+                "predicted_answer": "day",
+                "answer": "night",
+                "pred_fine_tuned": "day"
+            },
+            {
+                "question": "what is in the background?",
+                "predicted_answer": "a building",
+                "answer": "a building",
+                "pred_fine_tuned": "a building"
+            },
+            {
+                "question": "what kind of a building?",
+                "predicted_answer": "it is a brick building",
+                "answer": "a house",
+                "pred_fine_tuned": "it is a brick building"
+            },
+            {
+                "question": "is the sign well lit?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a close up of a stop sign",
+        "length": 6,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000006205.jpg": {
+        "dialog": [
+            {
+                "question": "how old is the man?",
+                "predicted_answer": "maybe in his 30s",
+                "answer": "maybe in his 20s",
+                "pred_fine_tuned": "maybe in his 30s"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a white shirt",
+                "answer": "a black shirt",
+                "pred_fine_tuned": "a white shirt and a black skirt"
+            },
+            {
+                "question": "what is he eating?",
+                "predicted_answer": "looks like a sandwich",
+                "answer": "a pizza",
+                "pred_fine_tuned": "looks like a sandwich"
+            },
+            {
+                "question": "is the restaurant full of people?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is he smiling?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "can you see silverware on the table?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it a fancy restaurant?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "a man eating at restaurant",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000006223.jpg": {
+        "dialog": [
+            {
+                "question": "how old is the girl?",
+                "predicted_answer": "maybe three",
+                "answer": "maybe seven",
+                "pred_fine_tuned": "maybe five"
+            },
+            {
+                "question": "what is she wearing?",
+                "predicted_answer": "a white shirt and blue jeans",
+                "answer": "a red shirt and blue shorts",
+                "pred_fine_tuned": "a white shirt and blue jeans"
+            },
+            {
+                "question": "is she alone?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see the ball?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is in the background?",
+                "predicted_answer": "a building",
+                "answer": "trees and cars",
+                "pred_fine_tuned": "a building in the background"
+            },
+            {
+                "question": "is she playing in a match?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is she having fun?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see grass on the ground?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a girl is playing soccer at the park",
+        "length": 8,
+        "accuracy": 25.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000006245.jpg": {
+        "dialog": [
+            {
+                "question": "does it look delicious?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is it made of?",
+                "predicted_answer": "wood",
+                "answer": "bread and bacon",
+                "pred_fine_tuned": "wood"
+            },
+            {
+                "question": "is the picture taken inside or outside?",
+                "predicted_answer": "inside",
+                "answer": "inside",
+                "pred_fine_tuned": "inside"
+            },
+            {
+                "question": "is it well lit?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see people?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the table made of wood?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "are there other items on the table?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "a picture of a sandwich on a table",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000006260.jpg": {
+        "dialog": [
+            {
+                "question": "what is the color of the cat?",
+                "predicted_answer": "black and white",
+                "answer": "grey",
+                "pred_fine_tuned": "black and white"
+            },
+            {
+                "question": "is it a big or small one?",
+                "predicted_answer": "small",
+                "answer": "small",
+                "pred_fine_tuned": "small"
+            },
+            {
+                "question": "can you see the computer?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is its brand?",
+                "predicted_answer": "i can not tell",
+                "answer": "hp",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "are there any people in the picture?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is it a wooden table?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is its color?",
+                "predicted_answer": "white",
+                "answer": "brown",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "is the computer on or off?",
+                "predicted_answer": "on",
+                "answer": "on",
+                "pred_fine_tuned": "on"
+            }
+        ],
+        "caption": "a cat is sleeping on a computer desk",
+        "length": 8,
+        "accuracy": 62.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000006370.jpg": {
+        "dialog": [
+            {
+                "question": "what color are the dogs?",
+                "predicted_answer": "black and white",
+                "answer": "brown and white",
+                "pred_fine_tuned": "brown and white"
+            },
+            {
+                "question": "are they puppies?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the living room big or small?",
+                "predicted_answer": "it is a large room",
+                "answer": "small",
+                "pred_fine_tuned": "it is a small room"
+            },
+            {
+                "question": "can you see a television?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "are there people around?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is there sunlight in the room?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is there a carpet on the floor?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "two dogs in a living room",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000006463.jpg": {
+        "dialog": [
+            {
+                "question": "how many people can you see?",
+                "predicted_answer": "i see two",
+                "answer": "i see two",
+                "pred_fine_tuned": "i see three"
+            },
+            {
+                "question": "is the boat big or small?",
+                "predicted_answer": "it is a small boat",
+                "answer": "it is a small boat",
+                "pred_fine_tuned": "small"
+            },
+            {
+                "question": "is the sea calm?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the sky blue?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "are the any seebirds?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "can you see the faces of the sailors?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "people sailing with a boat at dusk in the open sea ",
+        "length": 6,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000006506.jpg": {
+        "dialog": [
+            {
+                "question": "what fruit can you see?",
+                "predicted_answer": "bananas oranges apples",
+                "answer": "bananas oranges apples",
+                "pred_fine_tuned": "bananas oranges apples pears"
+            },
+            {
+                "question": "what vegetables can you see?",
+                "predicted_answer": "carrots and broccoli",
+                "answer": "none",
+                "pred_fine_tuned": "carrots and broccoli"
+            },
+            {
+                "question": "are they well organized?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do you see people shopping?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do they look fresh?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the picture in color?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "does it look professional?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "a picture of fruit and vegetables in a supermarkt",
+        "length": 7,
+        "accuracy": 86.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000006695.jpg": {
+        "dialog": [
+            {
+                "question": "what is the color of the dog?",
+                "predicted_answer": "brown",
+                "answer": "black",
+                "pred_fine_tuned": "brown and white"
+            },
+            {
+                "question": "is it alone in the picture?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "does it look tired?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what is the color of the frisbee?",
+                "predicted_answer": "white",
+                "answer": "yellow",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "does it look friendly?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it laying down or standing?",
+                "predicted_answer": "standing",
+                "answer": "laying down",
+                "pred_fine_tuned": "standing"
+            },
+            {
+                "question": "is there any sunlight?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a dog playing with a frisbee at a park",
+        "length": 7,
+        "accuracy": 28.999999999999996
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000006716.jpg": {
+        "dialog": [
+            {
+                "question": "what kind of food is it?",
+                "predicted_answer": "looks like a sandwich",
+                "answer": "looks like a sandwich",
+                "pred_fine_tuned": "looks like a salad"
+            },
+            {
+                "question": "what kind of a sandwich?",
+                "predicted_answer": "looks like a ham",
+                "answer": "looks like a hotdog",
+                "pred_fine_tuned": "looks like a hoagie roll"
+            },
+            {
+                "question": "does it look delicious?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what color is the plate?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "is it inside or outside?",
+                "predicted_answer": "inside",
+                "answer": "inside",
+                "pred_fine_tuned": "inside"
+            },
+            {
+                "question": "can you tell where exactly inside?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do you see anything else?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "a close up of food on a plate",
+        "length": 7,
+        "accuracy": 86.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007045.jpg": {
+        "dialog": [
+            {
+                "question": "what is the occasion for this?",
+                "predicted_answer": "i can not tell",
+                "answer": "a birthday",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "is the image in color?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the table covered with a cloth?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do you see people in the background?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the party inside or outside?",
+                "predicted_answer": "inside",
+                "answer": "outside",
+                "pred_fine_tuned": "inside"
+            },
+            {
+                "question": "does the cake look delicious?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what time was the party?",
+                "predicted_answer": "one thousand two hundred and twenty",
+                "answer": "in the afternoon",
+                "pred_fine_tuned": "one thousand two hundred and twenty"
+            }
+        ],
+        "caption": "cake and party utilities on a table",
+        "length": 7,
+        "accuracy": 28.999999999999996
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007377.jpg": {
+        "dialog": [
+            {
+                "question": "what is the gender of the surfer?",
+                "predicted_answer": "male",
+                "answer": "male",
+                "pred_fine_tuned": "male"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a black wetsuit",
+                "answer": "a black wetsuit",
+                "pred_fine_tuned": "a black wetsuit"
+            },
+            {
+                "question": "what is the color of his board?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what color is the sand?",
+                "predicted_answer": "brown",
+                "answer": "yellow",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "can you see the ocean in the picture?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "does he look professional?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is he alone in the shot?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a surfer holding a board and walking on the beach",
+        "length": 7,
+        "accuracy": 71.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007378.jpg": {
+        "dialog": [
+            {
+                "question": "can you see many cars?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do you see many people?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many can you see?",
+                "predicted_answer": "about ten",
+                "answer": "two",
+                "pred_fine_tuned": "about ten"
+            },
+            {
+                "question": "is it an old or a new photo?",
+                "predicted_answer": "old",
+                "answer": "old",
+                "pred_fine_tuned": "old"
+            },
+            {
+                "question": "what is in the background?",
+                "predicted_answer": "a building",
+                "answer": "a building",
+                "pred_fine_tuned": "a building"
+            },
+            {
+                "question": "do you see street signs? ",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the street clean?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a busy street in a city",
+        "length": 7,
+        "accuracy": 43.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007432.jpg": {
+        "dialog": [
+            {
+                "question": "does the wave look big or small?",
+                "predicted_answer": "it is a small wave",
+                "answer": "it is a small wave",
+                "pred_fine_tuned": "medium sized"
+            },
+            {
+                "question": "is he good at surfing?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see other surfers?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the sun shining?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what color is his board?",
+                "predicted_answer": "white",
+                "answer": "black and white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what is wearing?",
+                "predicted_answer": "a wetsuit",
+                "answer": "a wetsuit",
+                "pred_fine_tuned": "a wetsuit"
+            },
+            {
+                "question": "how old do you thnik he is?",
+                "predicted_answer": "maybe in his 20s",
+                "answer": "maybe in his 30s",
+                "pred_fine_tuned": "maybe in his 30s"
+            },
+            {
+                "question": "is wearing shorts or long pants?",
+                "predicted_answer": "long pants",
+                "answer": "shorts",
+                "pred_fine_tuned": "long pants"
+            }
+        ],
+        "caption": "a surfer riding a wave in the ocean",
+        "length": 8,
+        "accuracy": 62.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007450.jpg": {
+        "dialog": [
+            {
+                "question": "how old is the man?",
+                "predicted_answer": "i can not tell",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a wetsuit",
+                "answer": "a shirt and jeans",
+                "pred_fine_tuned": "a wetsuit"
+            },
+            {
+                "question": "is he on the ground or midair?",
+                "predicted_answer": "he is on the ground",
+                "answer": "midair",
+                "pred_fine_tuned": "he is on the ground"
+            },
+            {
+                "question": "is the weather good?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is he alone in the park?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is he any good at skating?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the image in color?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a man skating in a park",
+        "length": 7,
+        "accuracy": 71.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007487.jpg": {
+        "dialog": [
+            {
+                "question": "how many children can you see?",
+                "predicted_answer": "two",
+                "answer": "eight",
+                "pred_fine_tuned": "two"
+            },
+            {
+                "question": "are they smiling?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "where are they?",
+                "predicted_answer": "in a store",
+                "answer": "in a house",
+                "pred_fine_tuned": "in a park"
+            },
+            {
+                "question": "is the picture old?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do they look well behaved?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "are they wearing the same uniform?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "are there any adults with them? ",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            }
+        ],
+        "caption": "a group of children in uniforms",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007547.jpg": {
+        "dialog": [
+            {
+                "question": "where is the dog?",
+                "predicted_answer": "on the ground",
+                "answer": "on the ground",
+                "pred_fine_tuned": "on the ground"
+            },
+            {
+                "question": "is it inside?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is its color?",
+                "predicted_answer": "red",
+                "answer": "brown",
+                "pred_fine_tuned": "red"
+            },
+            {
+                "question": "what is the color of its toy?",
+                "predicted_answer": "red",
+                "answer": "red",
+                "pred_fine_tuned": "red and white"
+            },
+            {
+                "question": "how big is the dog?",
+                "predicted_answer": "medium sized",
+                "answer": "medium sized",
+                "pred_fine_tuned": "medium sized"
+            },
+            {
+                "question": "can you see its owner?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is it a male or a female?",
+                "predicted_answer": "male",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "male"
+            }
+        ],
+        "caption": "a dog holding a toy in its mouth",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007634.jpg": {
+        "dialog": [
+            {
+                "question": "is the bathroom big or small?",
+                "predicted_answer": "large",
+                "answer": "small",
+                "pred_fine_tuned": "small"
+            },
+            {
+                "question": "can you see a toilet?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do you see the walls?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is their color?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "do you see toilet paper?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it dirty or clean?",
+                "predicted_answer": "clean",
+                "answer": "dirty",
+                "pred_fine_tuned": "clean"
+            },
+            {
+                "question": "is it well lit?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a picture of a small bathroom",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007662.jpg": {
+        "dialog": [
+            {
+                "question": "how old is the lady?",
+                "predicted_answer": "maybe in her 30s",
+                "answer": "maybe in her 60s",
+                "pred_fine_tuned": "maybe in her 30s"
+            },
+            {
+                "question": "does she have long or short hair?",
+                "predicted_answer": "short",
+                "answer": "short",
+                "pred_fine_tuned": "short"
+            },
+            {
+                "question": "what color is her hair?",
+                "predicted_answer": "brown",
+                "answer": "blond",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "what is she wearing?",
+                "predicted_answer": "a blue shirt",
+                "answer": "a brown shirt",
+                "pred_fine_tuned": "a blue shirt"
+            },
+            {
+                "question": "can you see the little sheep?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "where could the lady be?",
+                "predicted_answer": "i can not tell",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "i can not tell"
+            },
+            {
+                "question": "is she alone?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "an old lady is holding a litte sheep",
+        "length": 7,
+        "accuracy": 28.999999999999996
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007731.jpg": {
+        "dialog": [
+            {
+                "question": "do the phones look identical?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you tell their brand?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "are they on or off?",
+                "predicted_answer": "on",
+                "answer": "off",
+                "pred_fine_tuned": "on"
+            },
+            {
+                "question": "do they look old or new?",
+                "predicted_answer": "new",
+                "answer": "old",
+                "pred_fine_tuned": "new"
+            },
+            {
+                "question": "what color is the stand?",
+                "predicted_answer": "brown",
+                "answer": "grey",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "do you see the walls?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what color are they?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            }
+        ],
+        "caption": "a picture of two cell phones on a stand",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007748.jpg": {
+        "dialog": [
+            {
+                "question": "does the food look delicious?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what food is in the container?",
+                "predicted_answer": "looks like a sandwich",
+                "answer": "looks like a salad",
+                "pred_fine_tuned": "looks like a salad"
+            },
+            {
+                "question": "is the image in color?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "where is the food?",
+                "predicted_answer": "on a table",
+                "answer": "on a table",
+                "pred_fine_tuned": "on a table"
+            },
+            {
+                "question": "does the table have a napkin?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is someone eating the food?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do you see sunlight in the picture?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "food in a metal container on a cutting board",
+        "length": 7,
+        "accuracy": 71.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007820.jpg": {
+        "dialog": [
+            {
+                "question": "how many birds do you see?",
+                "predicted_answer": "about ten",
+                "answer": "more then a hundred",
+                "pred_fine_tuned": "about ten"
+            },
+            {
+                "question": "do you see what they are eating?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "are there people around?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the sea calm?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "are the birds from the same breed?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what color are the birds?",
+                "predicted_answer": "black",
+                "answer": "black",
+                "pred_fine_tuned": "black and white"
+            },
+            {
+                "question": "is it sunny?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a lot of birds eating from the ocean",
+        "length": 7,
+        "accuracy": 56.99999999999999
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007886.jpg": {
+        "dialog": [
+            {
+                "question": "is the street clean?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do you see traffic signs?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "what about people?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do you see writings in english?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the street busy?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is it sunny?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do you see any buildings?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many?",
+                "predicted_answer": "two",
+                "answer": "one",
+                "pred_fine_tuned": "two"
+            }
+        ],
+        "caption": "a picture from a street in india",
+        "length": 8,
+        "accuracy": 62.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000007896.jpg": {
+        "dialog": [
+            {
+                "question": "do you see hair on his hand?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is he eating?",
+                "predicted_answer": "looks like a sandwich",
+                "answer": "looks like a sandwich",
+                "pred_fine_tuned": "looks like a sandwich"
+            },
+            {
+                "question": "are there people around?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is it sunny or cloudy?",
+                "predicted_answer": "sunny",
+                "answer": "sunny",
+                "pred_fine_tuned": "sunny"
+            },
+            {
+                "question": "can you see his face?",
+                "predicted_answer": "yes",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is he holding the food with the right hand or the left?",
+                "predicted_answer": "he is looking at the camera",
+                "answer": "with the left",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a man taking a picture of his food in the middle of a busy street",
+        "length": 6,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000008085.jpg": {
+        "dialog": [
+            {
+                "question": "how old is the surfer?",
+                "predicted_answer": "i can not tell",
+                "answer": "maybe in his 20s",
+                "pred_fine_tuned": "maybe in his 30s"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a wetsuit",
+                "answer": "a wetsuit",
+                "pred_fine_tuned": "a wetsuit"
+            },
+            {
+                "question": "what is its color?",
+                "predicted_answer": "black",
+                "answer": "black",
+                "pred_fine_tuned": "black"
+            },
+            {
+                "question": "what color is his board?",
+                "predicted_answer": "black",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "what color is his hair?",
+                "predicted_answer": "brown",
+                "answer": "brown",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "is he good at surfing?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is he alone?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a surfer is riding a wave",
+        "length": 7,
+        "accuracy": 71.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000008094.jpg": {
+        "dialog": [
+            {
+                "question": "can you see the frisbee?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "where is the frisbee?",
+                "predicted_answer": "on the ground",
+                "answer": "midair",
+                "pred_fine_tuned": "on the ground"
+            },
+            {
+                "question": "what color is the dog?",
+                "predicted_answer": "black and white",
+                "answer": "brown",
+                "pred_fine_tuned": "brown and white"
+            },
+            {
+                "question": "will he catch the frisbee?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "do you see its owner?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is it sunny at the park?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is in the background?",
+                "predicted_answer": "trees",
+                "answer": "trees",
+                "pred_fine_tuned": "trees"
+            }
+        ],
+        "caption": "a dog is trying to catch a frisbee at the park ",
+        "length": 7,
+        "accuracy": 71.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000008132.jpg": {
+        "dialog": [
+            {
+                "question": "what fruit can you see?",
+                "predicted_answer": "bananas and oranges",
+                "answer": "apples and oranges",
+                "pred_fine_tuned": "bananas oranges apples"
+            },
+            {
+                "question": "what vegetables can you see?",
+                "predicted_answer": "broccoli",
+                "answer": "broccoli",
+                "pred_fine_tuned": "broccoli"
+            },
+            {
+                "question": "where are they?",
+                "predicted_answer": "in a restaurant",
+                "answer": "in a kitchen",
+                "pred_fine_tuned": "in a restaurant"
+            },
+            {
+                "question": "do they look fresh?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the image in color?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it well lit?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a close up of fruit and vegetables",
+        "length": 6,
+        "accuracy": 67.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000008239.jpg": {
+        "dialog": [
+            {
+                "question": "what color is the bus?",
+                "predicted_answer": "red and white",
+                "answer": "red",
+                "pred_fine_tuned": "red and white"
+            },
+            {
+                "question": "can you see people?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what about buildings?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "how many?",
+                "predicted_answer": "i see three",
+                "answer": "i see three",
+                "pred_fine_tuned": "i see three"
+            },
+            {
+                "question": "is the bus full?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "where is it going?",
+                "predicted_answer": "it is a street sign",
+                "answer": "i can not tell",
+                "pred_fine_tuned": "it is a street sign"
+            }
+        ],
+        "caption": "a bus in the city center",
+        "length": 6,
+        "accuracy": 50.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000008338.jpg": {
+        "dialog": [
+            {
+                "question": "is it a boy or a girl?",
+                "predicted_answer": "boy",
+                "answer": "boy",
+                "pred_fine_tuned": "boy"
+            },
+            {
+                "question": "what is he wearing?",
+                "predicted_answer": "a black shirt",
+                "answer": "a green shirt",
+                "pred_fine_tuned": "a black shirt and jeans"
+            },
+            {
+                "question": "is the living room large?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see the floor?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is it made of?",
+                "predicted_answer": "wood",
+                "answer": "wood",
+                "pred_fine_tuned": "wood"
+            },
+            {
+                "question": "do you see a rug?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "do you see his parents?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is he having fun?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is the room well lit?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a little kid is playing with a hair brush in the living room",
+        "length": 9,
+        "accuracy": 78.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000008420.jpg": {
+        "dialog": [
+            {
+                "question": "what color are the dogs?",
+                "predicted_answer": "brown and white",
+                "answer": "brown and white",
+                "pred_fine_tuned": "brown and white"
+            },
+            {
+                "question": "are they big or small?",
+                "predicted_answer": "small",
+                "answer": "small",
+                "pred_fine_tuned": "small"
+            },
+            {
+                "question": "what is the color of the door?",
+                "predicted_answer": "brown",
+                "answer": "brown",
+                "pred_fine_tuned": "brown"
+            },
+            {
+                "question": "are the dogs inside or outside?",
+                "predicted_answer": "inside",
+                "answer": "inside",
+                "pred_fine_tuned": "inside"
+            },
+            {
+                "question": "do they look friendly or aggressive?",
+                "predicted_answer": "they look like they are having fun",
+                "answer": "they look like they are having fun",
+                "pred_fine_tuned": "they look like they are having fun"
+            },
+            {
+                "question": "can you see their owner?",
+                "predicted_answer": "no",
+                "answer": "no",
+                "pred_fine_tuned": "no"
+            },
+            {
+                "question": "is the door open or closed?",
+                "predicted_answer": "closed",
+                "answer": "closed",
+                "pred_fine_tuned": "closed"
+            }
+        ],
+        "caption": "two dogs are looking through a glass door",
+        "length": 7,
+        "accuracy": 100.0
+    },
+    "/data/vis_diag/images/VisualDialog_test2018/VisualDialog_test2018_000000008591.jpg": {
+        "dialog": [
+            {
+                "question": "what color is the toilet?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "is it clean?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "can you see the floor?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is its color?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "can you see the walls?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "what is their color?",
+                "predicted_answer": "white",
+                "answer": "white",
+                "pred_fine_tuned": "white"
+            },
+            {
+                "question": "is there toilet paper?",
+                "predicted_answer": "no",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            },
+            {
+                "question": "is it well lit?",
+                "predicted_answer": "yes",
+                "answer": "yes",
+                "pred_fine_tuned": "yes"
+            }
+        ],
+        "caption": "a close up of a toilet",
+        "length": 8,
+        "accuracy": 88.0
+    }
+}
