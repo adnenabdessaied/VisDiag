@@ -47,15 +47,13 @@ def _get_args():
     arg_parser.add_argument("-w2i",
                             "--word_to_index",
                             required=False,
-                            default="/home/adnen/Documents/Studium/research_projects/visual_dialog/visual_dialog/"
-                                    "preprocessing/word_to_idx_09.pickle",
+                            default="../word_to_idx.pickle",
                             help="Path to a saved word to index mapping.")
 
     arg_parser.add_argument("-i2w",
                             "--index_to_word",
                             required=False,
-                            default="/home/adnen/Documents/Studium/research_projects/visual_dialog/visual_dialog/"
-                                    "preprocessing/idx_to_word_09.pickle",
+                            default="../idx_to_word.pickle",
                             help="Path to a saved index to word mapping.")
 
     arg_parser.add_argument("-b",
@@ -79,8 +77,7 @@ def _get_args():
     arg_parser.add_argument("-o",
                             "--output",
                             required=False,
-                            default="/home/adnen/Documents/Studium/research_projects/visual_dialog/visual_dialog/"
-                                    "output_interactive",
+                            default="../output_interactive",
                             help="Folder where the fine tuned network will be saved")
     args = vars(arg_parser.parse_args())
     return args
@@ -114,7 +111,6 @@ class GUI(object):
     predicted_answers = []
     captions = []
     net, optimizer = None, None
-    os.chdir("/data/vis_diag/images/")
     args = _get_args()
     params = {EMBEDDING_DIM: args["embedding_dim"],
               MAX_SENTENCE_LENGTH: args["max_len"],
@@ -472,7 +468,7 @@ class GUI(object):
 
     @staticmethod
     def save_dialogs_to_json():
-        path_json = "/home/adnen/Documents/Studium/research_projects/visual_dialog/visual_dialog/logged_dialogs.json"
+        path_json = os.path.join(GUI.args["output"], "logged_dialogs.json")
         with open(path_json, "w") as f:
             json.dump(GUI.data, f, indent=4)
 
