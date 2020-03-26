@@ -45,7 +45,7 @@ The output of the interface, e.g. the fine tuned network or the logged dialogs, 
 This is what you should get if everything was done correctly:
 <p align="center"><img src="assets/gui.png" alt="PHP Terminal style set text color" /></p>
 
-In the report, we gave an extenive walkthrough on how this interface is used.
+In the  [report](https://github.com/adnenabdessaied/VisDiag/blob/master/report.pdf), we gave an extenive walkthrough on how this interface is used.
 
 ### Acknoledgments
 We thank the team of [the visual dialog challenge](https://visualdialog.org/people) for their [pytorch implementation](https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch) that greatly influenced this work.
