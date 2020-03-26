@@ -1,5 +1,5 @@
 # VisDiag
-This is the code I used in my 2nd M.Sc. research project.	We tried in this work to introduce an interactive training mode that allows us to integrate the human-in-the-loop concept into the visual dialog task. This interactive mode lets humans evaluate a pre-trained agent and give it feedback that can be used for online training purposes. In addition, we investigate the possibility of improving the quality of learning using only limited amounts of data. Results and deatiled information about the overall structure of the project can be found in the [report]() included in this repository.
+This is the code I used in my 2nd M.Sc. research project.	We tried in this work to introduce an interactive training mode that allows us to integrate the human-in-the-loop concept into the visual dialog task. This interactive mode lets humans evaluate a pre-trained agent and give it feedback that can be used for online training purposes. In addition, we investigate the possibility of improving the quality of learning using only limited amounts of data. Results and deatiled information about the overall structure of the project can be found in the [report](https://github.com/adnenabdessaied/VisDiag/blob/master/report.pdf) included in this repository.
 
 ### Pre-training
 To pre-train the network, we use the VisDial dataset v0.9 of the visual dialog challenge that can be downloaded from [here](https://visualdialog.org/data) alongside with the 2014 COCO datasets. The latter can be found [here](http://cocodataset.org/#download). 
@@ -43,7 +43,8 @@ python gui.py
 ```
 This is what you should get if everything was done correctly:
 <p align="center"><img src="assets/gui.png" alt="PHP Terminal style set text color" /></p>
-In the [report](), we gave an extenive walkthrough on how this interface is used. 
+In the [report](https://github.com/adnenabdessaied/VisDiag/blob/master/report.pdf), we gave an extenive walkthrough on how this interface is used. 
+The output of the interface, e.g. the fine tuned network or the logged dialogs, will be saved by default in  `$REPO/output_interactive`.
 
 ### Acknoledgments
 We thank the team of [the visual dialog challenge](https://visualdialog.org/people) for their [pytorch implementation](https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch) that greatly influenced this work.
