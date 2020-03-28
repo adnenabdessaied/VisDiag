@@ -6,7 +6,7 @@ To pre-train the network, we use the VisDial dataset v0.9 of the visual dialog c
 After downloading the data from the two links mentioned above, the images should be save in a directory that we will call  from now on `$IMAGES`. Its structure should look like this:
 <p align="center"><img src="assets/image_structure.png" alt="PHP Terminal style set text color" /></p>
 
-Now clone/download our repo to a path that we call `$REPO` and install all the requirements by executing the following in a terminal: 
+Now clone/download our repo to a path that we will call `$REPO` and install all the requirements by executing the following in a terminal: 
 ```bash
 cd $REPO
 pip install -r requirements.txt
