@@ -232,7 +232,7 @@ def train(args):
     val_data_loader = DataLoader(val_dataset, batch_size=int(args["batch_size"]), shuffle=True, num_workers=6)
     logging.info("Data loaders successfully constructed ...")
 
-    # We use nn.CrossEntropyLoss() since our decoder is discriminative.
+    # We use nn.CrossEntropyLoss
     criterion = nn.CrossEntropyLoss(ignore_index=0)
 
     # Load the most recent checkpoint. Otherwise start training from scratch.
