@@ -28,7 +28,7 @@ numpy==1.17.2
 opencv-python==4.1.2.30
 panda==0.3.1
 Pillow==6.2.0
-protobuf==3.10.0
+protobuf==3.15.0
 pybind11==2.4.3
 pyemd==0.5.1
 pyparsing==2.4.2
