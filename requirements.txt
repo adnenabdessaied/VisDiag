@@ -3,7 +3,7 @@ autocorrect==0.4.4
 boto==2.49.0
 boto3==1.10.0
 botocore==1.13.0
-certifi==2019.9.11
+certifi==2022.12.7
 chardet==3.0.4
 cycler==0.10.0
 docopt==0.6.2
